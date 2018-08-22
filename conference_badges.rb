@@ -22,6 +22,5 @@ end
 
 def printer(attendees)
   list_of_badges = []
-  binding.pry
 end
   
